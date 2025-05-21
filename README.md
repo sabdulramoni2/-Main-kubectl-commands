@@ -15,7 +15,7 @@ This project demonstrates using various kubernetes command
  
 ---
 
-## **Features**
+## **Diagrammatic Presentation**
 - Created nginx Deployment
 
   ![image](https://github.com/user-attachments/assets/08f8fefd-39ce-4aca-88c2-665bcebdcbd4)
